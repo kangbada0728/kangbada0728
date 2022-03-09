@@ -17,10 +17,8 @@
 - :trolleybus: [삼성청년SW아카데미](https://www.ssafy.com/) (2020.01 ~ 2020.09)
 - :school: 아주대학교 소프트웨어학과 (2012.03 ~ 2019.08)
 
-![email](https://img.shields.io/badge/Email-kangbada0728%40gmail.com-critical)
-[![TIL](https://img.shields.io/badge/TIL-https://github.com/kangbada0728/TIL/-%23333?labelColor=%23aaa)](https://junilhwang.github.io/TIL)
-[![Blog](https://img.shields.io/badge/Blog-https://kangbada0728.github.io/-%23333?labelColor=%23aaa)](https://kangbada0728.github.io/)
-[![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100037780485114)
+# ![email](https://img.shields.io/badge/Email-kangbada0728%40gmail.com-critical)
+# [![Blog](https://img.shields.io/badge/Blog-https://kangbada0728.github.io/-%23333?labelColor=%23aaa)](https://kangbada0728.github.io/)
 
 ### 기술스택
 
