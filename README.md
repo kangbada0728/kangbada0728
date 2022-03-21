@@ -12,7 +12,6 @@
 
 ### 이력
 
-- :office: [줌인터넷](https://zuminternet.com/) 포털 서비스 개발자 (2021.12 ~ 현재)
 - :office: [다날](https://www.danal.co.kr/) Payment Gateway 개발자 (2021.02 ~ 2021.12)
 - :trolleybus: [삼성청년SW아카데미](https://www.ssafy.com/) (2020.01 ~ 2020.09)
 - :school: 아주대학교 소프트웨어학과 (2012.03 ~ 2019.08)
