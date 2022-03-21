@@ -17,7 +17,6 @@
 - :school: 아주대학교 소프트웨어학과 (2012.03 ~ 2019.08)
 
 # ![email](https://img.shields.io/badge/Email-kangbada0728%40gmail.com-critical)
-# [![Blog](https://img.shields.io/badge/Blog-https://kangbada0728.github.io/-%23333?labelColor=%23aaa)](https://kangbada0728.github.io/)
 
 ### 기술스택
 
