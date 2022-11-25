@@ -16,7 +16,7 @@
 - :trolleybus: [삼성청년SW아카데미](https://www.ssafy.com/) (2020.01 ~ 2020.09)
 - :school: 아주대학교 소프트웨어학과 (2012.03 ~ 2019.08)
 
-# ![email](https://img.shields.io/badge/Email-kangbada0728%40gmail.com-critical)
+
 
 ### 기술스택
 
