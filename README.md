@@ -17,4 +17,6 @@
 
 ![Java](https://img.shields.io/badge/Java-333)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
-![Vuejs](https://img.shields.io/badge/Vuejs-4fc08d)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF)
+![Kafka](https://img.shields.io/badge/Kafka-231F20)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
